@@ -5,7 +5,7 @@ workspace 'MVVM'
 use_frameworks!
 
 target 'MVVMDemo' do
-  project './MVVMDemo/MVVMDemo'
+  project './MVVMTest/MVVMDemo'
   
   
   # Pods for MVVMDemo
